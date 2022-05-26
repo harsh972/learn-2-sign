@@ -20,5 +20,4 @@ ML:
 Tensorflow.js
 Teachable Machine
 
-Team
-Aniket Singh Rawat, Dev Sharma, Harsh Tyagi, Arjunaditya, Avinash Updahya
+
